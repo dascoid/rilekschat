@@ -115,6 +115,7 @@ const onSubmit = async () => {
         address : personalForm.value.address,
         recaptcha_token: recaptchaToken,
         website:  import.meta.env.VITE_APP_URL,
+        appchat:  import.meta.env.VITE_APP_NAME,
       }),
       headers: {
         'Content-Type': 'application/json',
