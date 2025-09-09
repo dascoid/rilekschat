@@ -95,7 +95,7 @@ const hideTitleAndIcon = configStore.isVerticalNavMini(isHovered)
               class="app-logo-title"
             >
               <!-- {{ layoutConfig.app.title }} -->
-                Rambu - Chat
+                Rileks - Chat
             </h1>
           </Transition>
         </RouterLink>

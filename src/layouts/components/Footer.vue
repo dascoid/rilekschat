@@ -4,7 +4,7 @@
     <span class="d-flex align-center text-medium-emphasis">
       &copy;
       {{ new Date().getFullYear() }}
-      PT RAMBU ADIYAKSA STUDIO
+      PT PT Rileks Happy Abadi
     </span>
     <!-- 👉 Footer: right content -->
     <!-- <span class="d-md-flex gap-x-4 text-primary d-none">

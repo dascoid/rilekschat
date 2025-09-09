@@ -31,7 +31,7 @@ function loadEnv($path = '.env') {
 }
 
 // Define the path to .env file
-$envPath = '/var/www/html/rambuchat/.env';
+$envPath = '/var/www/html/rilekschat/.env';
 
 // Load .env file
 try {

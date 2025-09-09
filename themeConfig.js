@@ -10,7 +10,7 @@ import { AppContentLayoutNav, ContentWidth, FooterType, NavbarType } from '@layo
 
 export const { themeConfig, layoutConfig } = defineThemeConfig({
   app: {
-    title: 'PT RAMBU ADIYAKSA STUDIO',
+    title: 'PT Rileks Happy Abadi',
     // logo: h('div', { innerHTML: logo, style: 'line-height:0; color: rgb(var(--v-global-theme-primary))' }),
     logo: h('img', { src: logo, alt: 'Company Logo', style: 'height: 40px;'}),
     contentWidth: ContentWidth.Boxed,
