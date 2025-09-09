@@ -55,7 +55,7 @@ const contactsUs = [
     },
   },
   {
-    title: 'admin@rambuadiyaksa.my',
+    title: 'admin@rilekshappyabadi.my',
     props: {
       prependIcon: 'tabler-mail',
       rounded: 'xl',
@@ -100,9 +100,9 @@ const contactsUs = [
           </div>
           <VDivider class="my-6" />
           <div class="mb-6 text-body-1">
-            PT RAMBU ADIYAKSA STUDIO ("we," "our," or "the company") is committed to protecting your privacy. 
+            PT Rileks Happy Abadi ("we," "our," or "the company") is committed to protecting your privacy. 
             This Privacy Policy explains how we collect, use, and safeguard your personal information when you use 
-            our services on https://rambuchat.online/.
+            our services on https://rilekshappyabadi.my.
           </div>
           <div class="mb-6 text-body-1">
             By using our services, you agree to the collection and use of information as described in this policy.
@@ -197,7 +197,7 @@ const contactsUs = [
               If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us at:
             </div>
             <div class="mt-2 ml-2 text-body-1">
-              PT RAMBU ADIYAKSA STUDIO
+              PT Rileks Happy Abadi
             </div>
             <div class="mt-2 ml-4 text-body-1">
               <VList :items="contactsUs" />

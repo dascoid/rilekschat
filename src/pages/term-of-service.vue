@@ -28,7 +28,7 @@ const items4 = [
   '- You must not interfere with or disrupt our services or servers.'
 ]
 const items5 = [
-  '- All content on https://rambuchat.online/ is owned by PT RAMBU ADIYAKSA STUDIO or licensed to us.',
+  '- All content on https://rilekshappyabadi.my is owned by PT Rileks Happy Abadi or licensed to us.',
   '- You may not copy, distribute, or modify any content without permission.'
 ]
 const items6 = [
@@ -43,14 +43,14 @@ const items8 = [
 ]
 const contactsUs = [
   {
-    title: 'l Sitapen Gang Manggis no 18B, Jl. Kranji No.5, Desa/Kelurahan Purwanegara, Kec. Purwokerto Utara Purwokerto, Jawa Tengah 53116 Indonesia',
+    title: 'Plaza Simatupang Lt. 6 Unit 3 Jl. TB. Simatupang Kav. IS No.01, RT.2/RW.17, Pd. Pinang, Kec. Kby. Lama, Daerah Khusus Ibukota Jakarta 12310',
     props: {
       prependIcon: 'tabler-map-pins',
       rounded: 'xl',
     },
   },
   {
-    title: 'admin@rambuadiyaksa.my',
+    title: 'admin@rilekshappyabadi.my',
     props: {
       prependIcon: 'tabler-mail',
       rounded: 'xl',
@@ -95,7 +95,7 @@ const contactsUs = [
           </div>
           <VDivider class="my-6" />
           <div class="mb-6 text-body-1">
-            Welcome to https://rambuchat.online/, operated by PT RAMBU ADIYAKSA STUDIO ("we," "our," or "the company"). By using our 
+            Welcome to https://rilekshappyabadi.my/, operated by PT Rileks Happy Abadi ("we," "our," or "the company"). By using our 
             services, you agree to the following Terms of Service. If you do not agree, please do not use our services.
           </div>
           <div class="mb-6 text-body-1">
@@ -152,7 +152,7 @@ const contactsUs = [
               If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us at:
             </div>
             <div class="mt-2 ml-2 text-body-1">
-              PT RAMBU ADIYAKSA STUDIO
+              PT Rileks Happy Abadi
             </div>
             <div class="mt-2 ml-4 text-body-1">
               <VList :items="contactsUs" />

@@ -5,7 +5,7 @@
   <link rel="icon" href="/favicon.png?v=3" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="Content-Security-Policy" content="frame-src 'self' https://www.google.com https://www.gstatic.com https://recaptcha.net;">
-  <title>Rambu - Chat</title>
+  <title>Rileks - Chat</title>
   <link rel="stylesheet" type="text/css" href="/loader.css" />
 </head>
 

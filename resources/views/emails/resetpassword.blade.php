@@ -254,7 +254,7 @@
                 <div class="company-info">
                     <!-- Company logo (optional) -->
                     <!-- <img src="your-logo-url.png" alt="Company Logo"> -->
-                    <p><strong>PT RAMBU ADIYAKSA STUDIO</strong></p>
+                    <p><strong>PT Rileks Happy Abadi</strong></p>
                 </div>
                 
                 <div class="social-links">
@@ -264,8 +264,8 @@
                     <a href="#" title="Instagram">ig</a>
                 </div>
                 
-                {{-- <p>123 Main Street, City, Country 12345</p> --}}
-                <p>© 2025 PT RAMBU ADIYAKSA STUDIO. All rights reserved.</p>
+                {{-- <p>Plaza Simatupang Lt. 6 Unit 3 Jl. TB. Simatupang Kav. IS No.01, RT.2/RW.17, Pd. Pinang, Kec. Kby. Lama, Daerah Khusus Ibukota Jakarta 12310</p> --}}
+                <p>© 2025 PT Rileks Happy Abadi. All rights reserved.</p>
                 <p style="margin-top: 15px; font-size: 12px;">
                     This is an automated security email. Please do not reply.
                     If you need help, contact our support team.
